@@ -1,4 +1,5 @@
 # Stage 1 Project Design 
+
 ### Task 2 -1
 **Compare Between tools**
 
@@ -59,3 +60,10 @@ In fact, over the last few years, Windows has become more ad-driven. Users will 
 * I choose Linux over Windows because it is more dependable. It's safer for a group of people to see what's going on in the code and collaborate to find the best solution. It has a great security system as well. It provides us with the Customization function, which gives it a distinct advantage over other operating systems. It's an open source operating system, thus it's free to use. Depending on your demands, you can edit, add, or delete any feature. 
 
 * I choose GitHub because it is becoming known as an open-source world, which means that if you want to run an open core or open-source project, users will understand how it works, and it allows for easy sharing and control.
+
+### Task2 -3
+
+### References:
+1. [https://www.geeksforgeeks.org/difference-between-gitlab-and-github/](https://www.geeksforgeeks.org/difference-between-gitlab-and-github/).
+2. [https://tangenttechnologies.ca/blog/pycharm-vs-vscode/](https://tangenttechnologies.ca/blog/pycharm-vs-vscode/).
+3. [https://www.geeksforgeeks.org/difference-between-linux-and-windows/](https://www.geeksforgeeks.org/difference-between-linux-and-windows/).
