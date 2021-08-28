@@ -61,7 +61,11 @@ In fact, over the last few years, Windows has become more ad-driven. Users will 
 
 * I choose GitHub because it is becoming known as an open-source world, which means that if you want to run an open core or open-source project, users will understand how it works, and it allows for easy sharing and control.
 
-### Task2 -3
+### Task 2 -3
+
+- I chose to work in github specifically for my project because we worked as a team and needed an app to assist us in pushing and merging our code. It also has a feature that allows us to manage our work between us in github, similar to a trello board, which greatly aided us in managing our tasks between the team.
+- For our project, I utilized vs code, which assisted us in developing the code using css, js, and html and provided us with a live server that allowed us to run the code. It includes extensions, and most programming languages are supported; however, if you want to use a language that isn't supported, you can download and use an extension, which runs as a separate process and doesn't slow down the editor. Repository With the ever-increasing demand for code, secure and quick storage is also essential. In order to fetch or save instances, it is linked to Git or may be linked to any other repository.
+- I choose Ubuntu since it is a more secure operating system. For example, if you link them together, you can open the terminal and use Ubuntu to upload your work to github.
 
 ### References:
 1. [https://www.geeksforgeeks.org/difference-between-gitlab-and-github/](https://www.geeksforgeeks.org/difference-between-gitlab-and-github/).

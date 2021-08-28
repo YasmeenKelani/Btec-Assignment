@@ -108,11 +108,6 @@ Schedule risk is the possibility that work will take longer than expected, and i
 - Black Box Testing is a software testing method in which the tester has no knowledge of the thing being tested's internal structure, design, or implementation.
 - We used this method to assess software program functionality without knowing the actual code structure, implementation details, or internal paths.
 
-
-
-
-
-
 ### References:
 1. [https://kissflow.com/project/project-management-challenges/](https://kissflow.com/project/project-management-challenges/).
 2. [https://www.proficientz.com/business-problem-definition/](https://www.proficientz.com/business-problem-definition/).
